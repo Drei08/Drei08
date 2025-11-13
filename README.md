@@ -1,4 +1,4 @@
-# 👨‍💻 Andrei Lucas Alves
+# 👨‍💻 Andrei Alves
 
 🎯 **Desenvolvedor em formação | Focado em Back-end e Fullstack**
 
