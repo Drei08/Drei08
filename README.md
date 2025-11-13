@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Olá! Prazer, me chamo **Andrei Lucas Alves**, sou estudante e formado em **Análise e Desenvolvimento de Sistemas**, e estou em busca da **minha primeira oportunidade na área de TI**.  
+Olá! Prazer, me chamo **Andrei Alves**, sou estudante e formado em **Análise e Desenvolvimento de Sistemas**, e estou em busca da **minha primeira oportunidade na área de TI**.  
 Sou apaixonado por tecnologia e estou constantemente aprimorando minhas habilidades para me tornar um **desenvolvedor completo**.  
 
 Tenho experiência em **Java, Node.js, HTML** e noções sólidas em **TypeScript, JavaScript e React**.  
@@ -75,7 +75,6 @@ Procuro uma **oportunidade como Desenvolvedor Júnior**, onde eu possa:
 
 📧 **Email:** andreilucas.0804@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/andrei-alves-26175338b](https://www.linkedin.com/in/andrei-alves-26175338b/)  
-🐙 **GitHub:** [github.com/Drei08](https://github.com/Drei08)
 
 ---
 
