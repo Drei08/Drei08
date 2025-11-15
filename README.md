@@ -12,6 +12,14 @@
 
 ---
 
+## 🌐 Contato
+
+<a href="https://www.linkedin.com/in/andrei-alves-26175338b" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
 ## Sobre mim
 
 Olá! Prazer, me chamo **Andrei Alves**, sou estudante e formado em **Análise e Desenvolvimento de Sistemas**, e estou em busca da **minha primeira oportunidade na área de TI**.  
@@ -60,14 +68,6 @@ Procuro uma **oportunidade como Desenvolvedor Júnior**, onde eu possa:
 - Colaborar com a equipe e contribuir para o sucesso da empresa.
 
  *“Comprometido em aprender, crescer e entregar sempre o melhor.”*
-
----
-
-## 🌐 Contato
-
-<a href="https://www.linkedin.com/in/andrei-alves-26175338b" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 ---
 
