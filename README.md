@@ -1,6 +1,16 @@
 # 👨‍💻 Andrei Alves
 
-🎯 **Desenvolvedor em formação | Focado em Back-end e Fullstack**
+## Tecnologias
+
+### 💻 **Linguagens & Frameworks**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -15,41 +25,25 @@ Atualmente, estou concluindo um curso avançado de **Java**, com foco em:
 - **Autenticação com JWT**
 - **Segurança com PasswordEncoder**
 
-Meu objetivo é **colaborar com uma equipe de desenvolvimento**, aprender com profissionais experientes e entregar o **melhor resultado possível**, sempre com dedicação, responsabilidade e vontade de evoluir.
+Atualmente continuo estudando de forma consistente para expandir meus conhecimentos, aprimorar minhas habilidades e me manter sempre atualizado com as evoluções e tendências do mercado de tecnologia.
 
----
-
-## 🤖 Tecnologias
-
-### 💻 **Linguagens & Frameworks**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" title="HTML5" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" height="30" title="Tailwind CSS" />
-</p>
+Meu objetivo é poder **colaborar com uma equipe de desenvolvimento**, aprender com profissionais experientes e entregar o **melhor resultado possível**, sempre com dedicação, responsabilidade e vontade de evoluir.
 
 ---
 
 ### 🗄️ **Bancos de Dados**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" title="MongoDB" />
-</p>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ### 🧰 **Ferramentas**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" title="GitHub" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30" title="Postman" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="30" height="30" title="Insomnia" />
-</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
@@ -73,8 +67,9 @@ Procuro uma **oportunidade como Desenvolvedor Júnior**, onde eu possa:
 
 ## 🌐 Contato
 
-📧 **Email:** andreilucas.0804@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/andrei-alves-26175338b](https://www.linkedin.com/in/andrei-alves-26175338b/)  
+<a href="https://www.linkedin.com/in/andrei-alves-26175338b" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
