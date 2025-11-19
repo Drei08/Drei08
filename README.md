@@ -12,6 +12,22 @@
 
 ---
 
+### 🗄️ **Bancos de Dados**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🧰 **Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+---
+
 ## 🌐 Contato
 
 <a href="https://www.linkedin.com/in/andrei-alves-26175338b" target="_blank">
@@ -34,22 +50,6 @@ Atualmente, estou concluindo um curso avançado de **Java**, com foco em:
 Atualmente continuo estudando de forma consistente para expandir meus conhecimentos, aprimorar minhas habilidades e me manter sempre atualizado com as evoluções e tendências do mercado de tecnologia.
 
 Meu objetivo é poder **colaborar com uma equipe de desenvolvimento**, aprender com profissionais experientes e entregar o **melhor resultado possível**, sempre com dedicação, responsabilidade e vontade de evoluir.
-
----
-
-### 🗄️ **Bancos de Dados**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🧰 **Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
