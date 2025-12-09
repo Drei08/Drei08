@@ -38,7 +38,9 @@
 
 ## Sobre mim
 
-Prazer, me chamo **Andrei Alves**, sou estudante e formado em **Análise e Desenvolvimento de Sistemas**, e estou em busca da **minha primeira oportunidade na área de TI**.  
+Muito prazer!! 
+
+Eu me chamo **Andrei Alves**, sou estudante e formado em **Análise e Desenvolvimento de Sistemas** em busca da **minha primeira oportunidade na área de TI**.  
 Sou fascinado por tecnologia e estou constantemente aprimorando minhas habilidades para me tornar um **desenvolvedor completo**.  
 
 Tenho experiência em **Java, Node.js, HTML** e noções sólidas em **TypeScript, JavaScript e React**.  
