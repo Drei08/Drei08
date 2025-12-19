@@ -30,7 +30,7 @@
 
 ## 🌐 Contato
 
-<a href="https://www.linkedin.com/in/andrei-l-alves-26175338b/" target="_blank">
+<a href="https://www.linkedin.com/in/andrei-alves-26175338b/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
